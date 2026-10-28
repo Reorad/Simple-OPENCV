@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings (optional - some teams commit these)
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+bagati : pip freeze > requirements.txt
